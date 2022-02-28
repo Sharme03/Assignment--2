@@ -1,0 +1,49 @@
+1.Difference between Browser JS(console) v Nodejs
+
+**Browser JS:**
+Javascript can only be run in the browsers.
+Browsers JS is use javascript as their programming language and used for writing scripts on the webside.
+Browsers JS  is basically used on the client-side.
+Javascript is used in frontend development.
+Javascript can run in any browser engine as like JS core in safari, chrome and Spidermonkey in Firefox.
+Javascript is capable enough to add HTML and interacting with the DOM, or other Web Platform APIs like Cookies.
+Browsers JS is the upgraded version of ECMA script that uses Chrome’s V8 engine written in C++.
+
+**Nodejs:**
+We can run Javascript outside the browser with the help of NodeJS.
+NodeJS is use javascript as their programming language and its runtime environment.
+NodeJS is mostly used on the server-side.
+Nodejs is used in server-side development.
+V8 is the Javascript engine inside of node.js that parses and runs Javascript. 
+Nodejs does not have capability to add HTML tags.
+Nodejs is written in C, C++ and Javascript.
+
+2.Type of function
+
+console.log(typeof(1));
+console.log(typeof(1.1));
+console.log(typeof('1.1'));
+console.log(typeof(true));
+console.log(typeof('false'));
+console.log(typeof(null));
+console.log(typeof(undefined));
+console.log(typeof([]));
+console.log(typeof({}));
+console.log(typeof(NaN));
+
+*Typeof is type of function is to find its type even its value*
+
+**Output**
+number
+number
+string
+boolean
+string
+object
+undefined
+object
+object
+number
+
+
+
