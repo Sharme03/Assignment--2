@@ -1,0 +1,22 @@
+how does the browser actually render a website?
+
+Ans:
+
+Parse HTML
+Parse CSS
+Render/Frame Tree
+Layout
+Painting
+Document Object Model (DOM)
+Reentrant 
+CSS Object Model (CSSOM)
+
+Render(Multiple) Trees:
+a) Render Objects
+b) Render Styles
+c) Render Layers
+d) Line Boxes
+
+Recursive Process
+Layout process
+Browser engines
